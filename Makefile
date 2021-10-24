@@ -8,3 +8,7 @@ help: ## This help dialog.
 hello2: ## u wat m8
 	@echo "hello world"
 	@echo $(MAKEFILE_DIR)
+
+extra-command: ## u wat m8
+	@echo "hello world"
+	@echo $(MAKEFILE_DIR)
